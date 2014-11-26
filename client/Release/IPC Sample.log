@@ -1,0 +1,38 @@
+Imager IPC Logfile
+--------------------------------------------------
+imager ipc object created at: 15:19:05.464
+--------------------------------------------------
+       0.3486       0.3486       *   Start Logging
+       0.4949       0.1463       *<- SetImagerIPCCount=2
+       0.5007       0.0058 [0]   *<- ReleaseImagerIPC
+       0.5074       0.0067 [0] <-*   Post Client-Close-Msg
+       0.5116       0.0042 [0]   *   Comm Object destroyed
+--------------------------------------------------
+       0.5167       0.0051 [0]   *   Comm Object created
+       0.5205       0.0038 [1]   *   Comm Object created
+    1013.9300    1013.4095 [1]   *<- InitNamedImagerIPC
+    1013.9666       0.0366 [1]   *   Init Name=camera2
+    1013.9958       0.0292 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    1014.2466       0.2508 [0]   *<- InitNamedImagerIPC
+    1014.2646       0.0180 [0]   *   Init Name=camera1
+    1014.2870       0.0225 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    2023.7747    1009.4877 [1]   *<- InitNamedImagerIPC
+    2023.8074       0.0327 [1]   *   Init Name=camera2
+    2023.8456       0.0382 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    2023.9187       0.0731 [0]   *<- InitNamedImagerIPC
+    2023.9299       0.0112 [0]   *   Init Name=camera1
+    2023.9440       0.0141 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    2953.7387     929.7946 [0]   *<- ReleaseImagerIPC
+    2953.8397       0.1010 [0] <-*   Post Client-Close-Msg
+    2953.8471       0.0074 [0]   *   Comm Object destroyed
+--------------------------------------------------
+    2953.8535       0.0064 [1]   *<- ReleaseImagerIPC
+    2953.8589       0.0055 [1] <-*   Post Client-Close-Msg
+    2953.8647       0.0058 [1]   *   Comm Object destroyed
+--------------------------------------------------
+--------------------------------------------------
+logging stopped at: 15:19:08.418
+--------------------------------------------------
+
+
+

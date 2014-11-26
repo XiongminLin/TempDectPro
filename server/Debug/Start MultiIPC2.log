@@ -1,0 +1,86 @@
+﻿Build started 2014/7/10 22:51:15.
+     1>Project "C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Start MultiIPC2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Start MultiIPC2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualC.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Runtime.Serialization.Formatters.Soap.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /FUInterop\Interop.TeeChart.1.0.dll /FUInterop\Interop.TeeChart.1.0.dll /FUInterop\Interop.TeeChart.1.0.dll /FUInterop\AxInterop.TeeChart.1.0.dll /analyze- /errorReport:prompt FormMulti.cpp Main.cpp /clr:nostdlib 
+         FormMulti.cpp
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(58): warning C4947: 'System::Threading::Thread::Resume' : marked as obsolete
+                 Message: 'Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1490): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1490): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1493): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1494): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1512): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1512): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1526): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1527): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1528): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1529): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1544): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1545): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1559): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1559): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1658): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1680): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1788): warning C4947: 'System::Threading::Thread::Suspend' : marked as obsolete
+                 Message: 'Thread.Suspend has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1828): warning C4947: 'System::Threading::Thread::Resume' : marked as obsolete
+                 Message: 'Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1832): warning C4101: 'm_Exceptin' : unreferenced local variable
+     1>FormMulti.cpp(445): warning C4018: '<' : signed/unsigned mismatch
+         Main.cpp
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(58): warning C4947: 'System::Threading::Thread::Resume' : marked as obsolete
+                 Message: 'Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1490): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1490): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1493): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1494): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1512): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1512): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1526): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1527): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1528): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1529): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1544): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1545): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1559): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1559): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1658): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1680): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1788): warning C4947: 'System::Threading::Thread::Suspend' : marked as obsolete
+                 Message: 'Thread.Suspend has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1828): warning C4947: 'System::Threading::Thread::Resume' : marked as obsolete
+                 Message: 'Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202'
+     1>c:\users\shelmylin\documents\github\lin_tempdectpro\ipc温度读取\FormMulti.h(1832): warning C4101: 'm_Exceptin' : unreferenced local variable
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Debug\Start MultiIPC2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Optris GmbH\PI Connect\SDK\Samples VC++ .net\Shared Files" winmm.lib ImagerIPC.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\IPCSample.FormImager.resources /ASSEMBLYRESOURCE:Debug\IPCSample.FormMulti.resources /ASSEMBLYRESOURCE:Debug\IPCSample.SetForm.resources /MANIFEST /ManifestFile:"Debug\Start MultiIPC2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Debug\Start MultiIPC2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\FormImager.obj
+         Debug\FormMulti.obj
+         Debug\Main.obj
+         Debug\SetForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Start MultiIPC2.vcxproj -> C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Debug\Start MultiIPC2.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Debug\Start MultiIPC2.exe;#1" /manifest "Debug\Start MultiIPC2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Start MultiIPC2.unsuccessfulbuild".
+         Touching "Debug\Start MultiIPC2.lastbuildstate".
+     1>Done Building Project "C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度读取\Start MultiIPC2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36

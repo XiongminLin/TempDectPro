@@ -1,0 +1,236 @@
+Imager IPC Logfile
+--------------------------------------------------
+imager ipc object created at: 15:41:17.841
+--------------------------------------------------
+       0.5818       0.5818       *   Start Logging
+       0.7232       0.1414       *<- SetImagerIPCCount=2
+       0.7290       0.0058 [0]   *<- ReleaseImagerIPC
+       0.7357       0.0067 [0] <-*   Post Client-Close-Msg
+       0.7399       0.0042 [0]   *   Comm Object destroyed
+--------------------------------------------------
+       0.7450       0.0051 [0]   *   Comm Object created
+       0.7492       0.0042 [1]   *   Comm Object created
+    1009.2086    1008.4594 [0]   *<- InitNamedImagerIPC
+    1009.2446       0.0359 [0]   *   Init Name=camera1
+    1009.2750       0.0305 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    1020.8833      11.6083 [1]   *<- InitNamedImagerIPC
+    1020.9087       0.0253 [1]   *   Init Name=camera2
+    1020.9369       0.0282 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    2019.4866     998.5497 [0]   *<- InitNamedImagerIPC
+    2019.5209       0.0343 [0]   *   Init Name=camera1
+    2019.5555       0.0346 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    2035.3099      15.7543 [1]   *<- InitNamedImagerIPC
+    2035.3355       0.0257 [1]   *   Init Name=camera2
+    2035.3634       0.0279 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    3032.8708     997.5073 [0]   *<- InitNamedImagerIPC
+    3032.9038       0.0330 [0]   *   Init Name=camera1
+    3032.9352       0.0314 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    3049.4304      16.4952 [1]   *<- InitNamedImagerIPC
+    3049.4593       0.0289 [1]   *   Init Name=camera2
+    3049.4904       0.0311 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    4047.0862     997.5958 [0]   *<- InitNamedImagerIPC
+    4047.1222       0.0359 [0]   *   Init Name=camera1
+    4047.1568       0.0346 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    4063.3313      16.1745 [1]   *<- InitNamedImagerIPC
+    4063.3649       0.0337 [1]   *   Init Name=camera2
+    4063.3900       0.0250 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    5061.0336     997.6436 [0]   *<- InitNamedImagerIPC
+    5061.0580       0.0244 [0]   *   Init Name=camera1
+    5061.0791       0.0212 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    5077.8723      16.7931 [1]   *<- InitNamedImagerIPC
+    5077.8864       0.0141 [1]   *   Init Name=camera2
+    5077.8992       0.0128 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    6075.6593     997.7601 [0]   *<- InitNamedImagerIPC
+    6075.6920       0.0327 [0]   *   Init Name=camera1
+    6075.7225       0.0305 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    6091.6885      15.9660 [1]   *<- InitNamedImagerIPC
+    6091.7131       0.0247 [1]   *   Init Name=camera2
+    6091.7411       0.0279 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    7089.9530     998.2120 [0]   *<- InitNamedImagerIPC
+    7089.9864       0.0334 [0]   *   Init Name=camera1
+    7090.0165       0.0301 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    7105.9004      15.8839 [1]   *<- InitNamedImagerIPC
+    7105.9257       0.0253 [1]   *   Init Name=camera2
+    7105.9524       0.0266 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    8102.9568     997.0044 [0]   *<- InitNamedImagerIPC
+    8102.9892       0.0324 [0]   *   Init Name=camera1
+    8103.0177       0.0285 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    8119.7259      16.7082 [1]   *<- InitNamedImagerIPC
+    8119.7506       0.0247 [1]   *   Init Name=camera2
+    8119.7772       0.0266 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    9118.0119     998.2347 [0]   *<- InitNamedImagerIPC
+    9118.0414       0.0295 [0]   *   Init Name=camera1
+    9118.0661       0.0247 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    9133.5000      15.4339 [1]   *<- InitNamedImagerIPC
+    9133.5222       0.0221 [1]   *   Init Name=camera2
+    9133.5443       0.0221 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   10131.8772     998.3329 [0]   *<- InitNamedImagerIPC
+   10131.9125       0.0353 [0]   *   Init Name=camera1
+   10131.9445       0.0321 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   10147.4769      15.5324 [1]   *<- InitNamedImagerIPC
+   10147.5180       0.0411 [1]   *   Init Name=camera2
+   10147.5407       0.0228 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   11146.0266     998.4859 [0]   *<- InitNamedImagerIPC
+   11146.0625       0.0359 [0]   *   Init Name=camera1
+   11146.0917       0.0292 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   11161.8704      15.7787 [1]   *<- InitNamedImagerIPC
+   11161.8957       0.0253 [1]   *   Init Name=camera2
+   11161.9207       0.0250 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   12159.6070     997.6863 [0]   *<- InitNamedImagerIPC
+   12159.6786       0.0715 [0]   *   Init Name=camera1
+   12159.7164       0.0378 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   12175.8107      16.0943 [1]   *<- InitNamedImagerIPC
+   12175.8396       0.0289 [1]   *   Init Name=camera2
+   12175.8681       0.0285 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   13173.9527     998.0846 [0]   *<- InitNamedImagerIPC
+   13173.9874       0.0346 [0]   *   Init Name=camera1
+   13174.0169       0.0295 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   13189.7170      15.7001 [1]   *<- InitNamedImagerIPC
+   13189.7436       0.0266 [1]   *   Init Name=camera2
+   13189.7712       0.0276 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   14187.9203     998.1491 [0]   *<- InitNamedImagerIPC
+   14187.9713       0.0510 [0]   *   Init Name=camera1
+   14187.9915       0.0202 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   14203.7933      15.8018 [1]   *<- InitNamedImagerIPC
+   14203.8071       0.0138 [1]   *   Init Name=camera2
+   14203.8209       0.0138 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   15201.9289     998.1080 [0]   *<- InitNamedImagerIPC
+   15201.9555       0.0266 [0]   *   Init Name=camera1
+   15201.9709       0.0154 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   15217.4023      15.4313 [1]   *<- InitNamedImagerIPC
+   15217.4177       0.0154 [1]   *   Init Name=camera2
+   15217.4305       0.0128 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   16221.9226    1004.4921 [0]   *<- InitNamedImagerIPC
+   16221.9742       0.0516 [0]   *   Init Name=camera1
+   16222.0050       0.0308 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   16231.3211       9.3161 [1]   *<- InitNamedImagerIPC
+   16231.3458       0.0247 [1]   *   Init Name=camera2
+   16231.3727       0.0269 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   17230.2271     998.8544 [0]   *<- InitNamedImagerIPC
+   17230.2598       0.0327 [0]   *   Init Name=camera1
+   17230.2973       0.0375 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   17246.0452      15.7479 [1]   *<- InitNamedImagerIPC
+   17246.0664       0.0212 [1]   *   Init Name=camera2
+   17246.0898       0.0234 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   18244.3306     998.2408 [0]   *<- InitNamedImagerIPC
+   18244.3624       0.0318 [0]   *   Init Name=camera1
+   18244.3912       0.0289 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   18260.2934      15.9022 [1]   *<- InitNamedImagerIPC
+   18260.3175       0.0241 [1]   *   Init Name=camera2
+   18260.3438       0.0263 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   19257.4938     997.1500 [0]   *<- InitNamedImagerIPC
+   19257.5236       0.0298 [0]   *   Init Name=camera1
+   19257.5782       0.0545 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   19272.9855      15.4073 [1]   *<- InitNamedImagerIPC
+   19273.0105       0.0250 [1]   *   Init Name=camera2
+   19273.0374       0.0269 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   20271.4441     998.4066 [0]   *<- InitNamedImagerIPC
+   20271.4886       0.0446 [0]   *   Init Name=camera1
+   20271.6281       0.1395 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   20287.5210      15.8929 [1]   *<- InitNamedImagerIPC
+   20287.5415       0.0205 [1]   *   Init Name=camera2
+   20287.5656       0.0241 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   21285.2833     997.7177 [0]   *<- InitNamedImagerIPC
+   21285.3212       0.0378 [0]   *   Init Name=camera1
+   21285.3497       0.0285 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   21301.3834      16.0337 [1]   *<- InitNamedImagerIPC
+   21301.4084       0.0250 [1]   *   Init Name=camera2
+   21301.4357       0.0273 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   22299.3667     997.9310 [0]   *<- InitNamedImagerIPC
+   22299.3955       0.0289 [0]   *   Init Name=camera1
+   22299.4212       0.0257 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   22315.4985      16.0773 [1]   *<- InitNamedImagerIPC
+   22315.5180       0.0196 [1]   *   Init Name=camera2
+   22315.5392       0.0212 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   23313.6697     998.1305 [0]   *<- InitNamedImagerIPC
+   23313.7072       0.0375 [0]   *   Init Name=camera1
+   23313.7332       0.0260 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   23329.5286      15.7954 [1]   *<- InitNamedImagerIPC
+   23329.5501       0.0215 [1]   *   Init Name=camera2
+   23329.5744       0.0244 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   24327.6161     998.0417 [0]   *<- InitNamedImagerIPC
+   24327.6379       0.0218 [0]   *   Init Name=camera1
+   24327.6559       0.0180 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   24343.2873      15.6315 [1]   *<- InitNamedImagerIPC
+   24343.3149       0.0276 [1]   *   Init Name=camera2
+   24343.3441       0.0292 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   25341.1542     997.8101 [0]   *<- InitNamedImagerIPC
+   25341.1930       0.0388 [0]   *   Init Name=camera1
+   25341.2084       0.0154 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   25357.1022      15.8938 [1]   *<- InitNamedImagerIPC
+   25357.1471       0.0449 [1]   *   Init Name=camera2
+   25357.1616       0.0144 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   26355.8514     998.6898 [0]   *<- InitNamedImagerIPC
+   26355.8844       0.0330 [0]   *   Init Name=camera1
+   26355.9460       0.0616 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   26371.9694      16.0234 [1]   *<- InitNamedImagerIPC
+   26371.9941       0.0247 [1]   *   Init Name=camera2
+   26372.0211       0.0269 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   27369.8571     997.8361 [0]   *<- InitNamedImagerIPC
+   27369.8918       0.0346 [0]   *   Init Name=camera1
+   27369.9239       0.0321 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   27385.5980      15.6741 [1]   *<- InitNamedImagerIPC
+   27385.6230       0.0250 [1]   *   Init Name=camera2
+   27385.6506       0.0276 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   28884.1491    1498.4985 [0]   *<- InitNamedImagerIPC
+   28884.1825       0.0334 [0]   *   Init Name=camera1
+   28884.2104       0.0279 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   28884.2322       0.0218 [1]   *<- InitNamedImagerIPC
+   28884.2440       0.0119 [1]   *   Init Name=camera2
+   28884.2617       0.0176 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   29397.9382     513.6765 [0]   *<- InitNamedImagerIPC
+   29397.9703       0.0321 [0]   *   Init Name=camera1
+   29398.0004       0.0301 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   29413.5706      15.5702 [1]   *<- InitNamedImagerIPC
+   29413.5956       0.0250 [1]   *   Init Name=camera2
+   29413.6242       0.0285 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   30411.8381     998.2139 [0]   *<- InitNamedImagerIPC
+   30411.8708       0.0327 [0]   *   Init Name=camera1
+   30411.9025       0.0318 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   30427.6623      15.7598 [1]   *<- InitNamedImagerIPC
+   30427.6893       0.0269 [1]   *   Init Name=camera2
+   30427.8291       0.1398 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   31426.3717     998.5426 [0]   *<- InitNamedImagerIPC
+   31426.4038       0.0321 [0]   *   Init Name=camera1
+   31426.4529       0.0491 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   31441.6626      15.2097 [1]   *<- InitNamedImagerIPC
+   31441.6879       0.0253 [1]   *   Init Name=camera2
+   31441.7161       0.0282 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   32440.1571     998.4410 [0]   *<- InitNamedImagerIPC
+   32440.2113       0.0542 [0]   *   Init Name=camera1
+   32440.2427       0.0314 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   32456.1269      15.8842 [1]   *<- InitNamedImagerIPC
+   32456.1536       0.0266 [1]   *   Init Name=camera2
+   32456.1885       0.0350 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   33454.1927     998.0041 [0]   *<- InitNamedImagerIPC
+   33454.2789       0.0863 [0]   *   Init Name=camera1
+   33454.3248       0.0459 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   33469.7266      15.4018 [1]   *<- InitNamedImagerIPC
+   33469.7513       0.0247 [1]   *   Init Name=camera2
+   33469.7783       0.0269 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   34468.2135     998.4352 [0]   *<- InitNamedImagerIPC
+   34468.2715       0.0581 [0]   *   Init Name=camera1
+   34468.3020       0.0305 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   34484.0326      15.7306 [1]   *<- InitNamedImagerIPC
+   34484.0579       0.0253 [1]   *   Init Name=camera2
+   34484.0852       0.0273 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   35481.5963     997.5112 [0]   *<- InitNamedImagerIPC
+   35481.6226       0.0263 [0]   *   Init Name=camera1
+   35481.6403       0.0176 [0]   !   Open FileMapping failed (error code: 0x80070002)
+   35497.4934      15.8531 [1]   *<- InitNamedImagerIPC
+   35497.5155       0.0221 [1]   *   Init Name=camera2
+   35497.5283       0.0128 [1]   !   Open FileMapping failed (error code: 0x80070002)
+   36576.3650    1078.8367 [0]   *<- ReleaseImagerIPC
+   36576.4311       0.0661 [0] <-*   Post Client-Close-Msg
+   36576.4401       0.0090 [0]   *   Comm Object destroyed
+--------------------------------------------------
+   36576.4497       0.0096 [1]   *<- ReleaseImagerIPC
+   36576.4571       0.0074 [1] <-*   Post Client-Close-Msg
+   36576.4648       0.0077 [1]   *   Comm Object destroyed
+--------------------------------------------------
+--------------------------------------------------
+logging stopped at: 15:41:54.418
+--------------------------------------------------
+
+
+

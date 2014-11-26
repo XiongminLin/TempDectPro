@@ -1,0 +1,24 @@
+﻿Build started 2014/7/7 15:41:16.
+     1>Project "C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度采集\Start MultiIPC2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Start MultiIPC2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Start MultiIPC2.vcxproj -> C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度采集\Release\Start MultiIPC2.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Start MultiIPC2.unsuccessfulbuild".
+         Touching "Release\Start MultiIPC2.lastbuildstate".
+     1>Done Building Project "C:\Users\ShelmyLin\Documents\GitHub\Lin_TempDectPro\IPC温度采集\Start MultiIPC2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28

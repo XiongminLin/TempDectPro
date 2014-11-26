@@ -1,0 +1,50 @@
+Imager IPC Logfile
+--------------------------------------------------
+imager ipc object created at: 17:29:01.545
+--------------------------------------------------
+       8.6807       8.6807       *   Start Logging
+       8.7278       0.0471       *<- SetImagerIPCCount=2
+       8.7329       0.0051 [0]   *<- ReleaseImagerIPC
+       8.7374       0.0045 [0] <-*   Post Client-Close-Msg
+       8.7419       0.0045 [0]   *   Comm Object destroyed
+--------------------------------------------------
+       8.7470       0.0051 [0]   *   Comm Object created
+       8.7519       0.0048 [1]   *   Comm Object created
+     540.7865     532.0346 [1]   *<- InitNamedImagerIPC
+     540.8150       0.0285 [1]   *   Init
+     540.8426       0.0276 [1]   !   Open FileMapping failed (error code: 0x80070002)
+     542.2426       1.4000 [0]   *<- InitNamedImagerIPC
+     542.2628       0.0202 [0]   *   Init
+     542.2856       0.0228 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    1037.0074     494.7219 [1]   *<- InitNamedImagerIPC
+    1037.0267       0.0192 [1]   *   Init
+    1037.0414       0.0148 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    1037.1001       0.0587 [0]   *<- InitNamedImagerIPC
+    1037.1110       0.0109 [0]   *   Init
+    1037.1226       0.0115 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    1536.6534     499.5308 [1]   *<- InitNamedImagerIPC
+    1536.6809       0.0276 [1]   *   Init
+    1536.7076       0.0266 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    1536.8974       0.1899 [0]   *<- InitNamedImagerIPC
+    1536.9106       0.0131 [0]   *   Init
+    1536.9269       0.0164 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    2051.4880     514.5611 [1]   *<- InitNamedImagerIPC
+    2051.5182       0.0301 [1]   *   Init
+    2051.5454       0.0273 [1]   !   Open FileMapping failed (error code: 0x80070002)
+    2051.7751       0.2296 [0]   *<- InitNamedImagerIPC
+    2051.7994       0.0244 [0]   *   Init
+    2051.8264       0.0269 [0]   !   Open FileMapping failed (error code: 0x80070002)
+    2303.8190     251.9926 [0]   *<- ReleaseImagerIPC
+    2303.9563       0.1373 [0] <-*   Post Client-Close-Msg
+    2303.9634       0.0071 [0]   *   Comm Object destroyed
+--------------------------------------------------
+    2303.9704       0.0071 [1]   *<- ReleaseImagerIPC
+    2303.9752       0.0048 [1] <-*   Post Client-Close-Msg
+    2303.9797       0.0045 [1]   *   Comm Object destroyed
+--------------------------------------------------
+--------------------------------------------------
+logging stopped at: 17:29:03.849
+--------------------------------------------------
+
+
+
